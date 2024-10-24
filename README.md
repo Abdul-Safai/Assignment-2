@@ -1,1 +1,2 @@
-# Assignment-2
+# PixelPioneers
+*Description*: PixelPioneer is an innovative platform designed to empower creators in the digital design space. With a focus on collaboration and cutting-edge tools, it provides users with the resources to craft stunning visuals, share their work, and connect with a vibrant community of like-minded artists and developers. Join us on a journey to push the boundaries of creativity and redefine digital storytelling!
