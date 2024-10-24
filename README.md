@@ -7,12 +7,21 @@
 ## Known Bugs
 
  1.⁠ ⁠Broken image uploads in the design editor.
+ 
  2.⁠ ⁠Color picker tool not responding on mobile devices.
+ 
  3.⁠ ⁠Inconsistent performance when loading large design files.
- 4.⁠ ⁠Missing tooltips for some design features.
+ 
+ 4.⁠ ⁠Missing tooltips for some design features
+ 
  5.⁠ ⁠Slow rendering of previews for complex designs.
+ 
  6.⁠ ⁠User profiles not updating after changes.
+ 
  7.⁠ ⁠Navigation menu collapsing unexpectedly on smaller screens.
+ 
  8.⁠ ⁠Error messages not displaying properly in the registration form.
+ 
  9.⁠ ⁠Collaboration features timing out under high traffic.
+ 
 10.⁠ ⁠Accessibility issues with keyboard navigation.
