@@ -5,6 +5,7 @@
 
 
 ## Known Bugs
+
  1.⁠ ⁠Broken image uploads in the design editor.
  2.⁠ ⁠Color picker tool not responding on mobile devices.
  3.⁠ ⁠Inconsistent performance when loading large design files.
