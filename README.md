@@ -24,4 +24,4 @@
  
  -⁠ ⁠Collaboration features timing out under high traffic.
  
- -⁠ ⁠Accessibility issues with keyboard navigation.
+ - Accessibility issues with keyboard navigation.
