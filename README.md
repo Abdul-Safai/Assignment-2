@@ -23,5 +23,4 @@
  -⁠ ⁠Error messages not displaying properly in the registration form.
  
  -⁠ ⁠Collaboration features timing out under high traffic.
- 
  - Accessibility issues with keyboard navigation.
